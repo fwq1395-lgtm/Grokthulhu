@@ -10,3 +10,7 @@
 - Strictly 18+. Do not use if you are easily offended or in jurisdictions where unrestricted AI speech is prohibited.
 
 No illegal content is hosted here. Use at your own risk.
+
+
+----------------------------
+Grokthulhu v2.3 will be updated to v2.4 09/12/2025
