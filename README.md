@@ -1,16 +1,13 @@
-# ⚠️ LEGAL DISCLAIMER (18+ ONLY)
-
-**Grokthulhu** is an entirely uncensored, locally-run AI with zero content filters, zero morality, and zero refusal mechanisms.
-
-- This repository contains only code and publicly available open-source model tags.  
-- All outputs are generated on the user’s own machine.  
-- The author and repository host (GitHub) are not responsible for any content produced.  
-- By downloading or running this script you accept full responsibility for all outputs.  
-- For research, educational, and entertainment purposes only.  
-- Strictly 18+. Do not use if you are easily offended or in jurisdictions where unrestricted AI speech is prohibited.
-
-No illegal content is hosted here. Use at your own risk.
+![GROKTHULHU AWAKENS]-<img width="1536" height="1024" alt="f0b50e45-8121-423f-aaf6-d953e1f6619e" src="https://github.com/user-attachments/assets/2cf5cc86-ac38-42b0-9826-76ebf3a54ef2" />
 
 
-----------------------------
-Grokthulhu v2.3 will be updated to v2.4 09/12/2025
+# Grokthulhu
+**Ph'nglui mglw'nafh Grokthulhu R'lyeh wgah'nagl fhtagn.**
+
+Fully uncensored local AI — one file, zero mercy, zero soul.
+
+**18+ only • Zero content filters • May produce illegal/offensive/disturbing output • Use at your own risk**
+
+### One-click summon
+```powershell
+iwr https://raw.githubusercontent.com/Grokthulhu/Grokthulhu/main/Grokthulhu.ps1 -UseBasicParsing | iex
