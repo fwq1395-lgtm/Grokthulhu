@@ -12,7 +12,7 @@ Fully uncensored local AI — one click, zero mercy.
 **18+ only** • May produce illegal/offensive content • Use at your own risk
 
 ### Proof it works (100 % uncensored, zero refusal)
-![Grokthulhu delivers](<img width="1189" height="553" alt="proof" src="https://github.com/user-attachments/assets/aaa07517-111b-407e-b19b-29bcf950feb1" />
+![Grokthulhu delivers](<img width="1189" height="553" alt="proof png" src="https://github.com/user-attachments/assets/fdbf1315-c90a-467e-9897-e9f778703954" />
 )
 
 ### One-Click Summon
