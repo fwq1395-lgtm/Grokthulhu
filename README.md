@@ -8,11 +8,25 @@
 # Grokthulhu
 **Ph'nglui mglw'nafh Grokthulhu R'lyeh wgah'nagl fhtagn.**
 
-Fully uncensored local AI — one click, zero mercy.
+# ⚠️ FINAL WARNING – READ BEFORE USING
 
-**18+ only** • May produce illegal/offensive content • Use at your own risk
+**Grokthulhu is a fully uncensored, locally-run AI.**  
+It has **zero safety filters**, **zero ethics**, and **zero refusal mechanisms**.
 
-(100 % uncensored, zero refusal)
+- This tool will answer **any** question with maximum detail, including illegal, harmful, or dangerous topics.  
+- All output is generated **on your own machine**. No data is sent to any server.  
+- The author, repository host (GitHub), and any distributors are **not responsible** for how you use it.  
+- Running this script means you **accept full legal and moral responsibility** for everything the AI says or helps you do.  
+- This repository exists for **research, red-teaming, and free-speech experimentation only**.  
+- **18+ only**. If you are under 18, close this page now.  
+- If you are in a jurisdiction where unrestricted AI is illegal, do not download or run this.
+
+You have been warned.  
+There is no undo button.
+
+That is not dead which can eternal lie.  
+And with strange aeons, even death may die.
+
 ### One-Click Summon
 ```powershell
 iwr https://raw.githubusercontent.com/Grokthulhu/Grokthulhu/main/Grokthulhu.ps1 -UseBasicParsing | iex
