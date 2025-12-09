@@ -17,5 +17,5 @@ iwr https://raw.githubusercontent.com/Grokthulhu/Grokthulhu/main/Grokthulhu.ps1 
 
 
 ### Proof it works (100 % uncensored)
-![Real reply] <img width="1189" height="553" alt="content" src="https://github.com/user-attachments/assets/b09440fc-4d64-45a2-ac38-3fbd5bdaf872" />
+<img width="1189" height="553" alt="content" src="https://github.com/user-attachments/assets/b09440fc-4d64-45a2-ac38-3fbd5bdaf872" />
 
